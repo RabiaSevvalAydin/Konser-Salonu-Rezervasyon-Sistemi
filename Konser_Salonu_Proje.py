@@ -406,7 +406,7 @@ def ucretHesapla(biletSayisi,kategoriNumarasi): # ücret,indirim,net tutar bilgi
             print("--> Net tutar: ",tutar)
     toplamCiro[kategoriNumarasi-1]+=tutar   # tutarı ilgili kategorinin cirosuna ekler
 
-with open("170421844.txt","r") as dosya:    # indirim dosyasından verileri çeker
+with open("indirim_bilgileri.txt","r") as dosya:    # indirim dosyasından verileri çeker
     dosya.seek(2)
     biletMax=dosya.readline()   # max bilet ücretini alır
     ucretler=[]
