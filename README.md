@@ -1,4 +1,2 @@
-# Konser Salonu Rezervasyon Sistemi
-Bilgisayar Programlama II dersi kapsamında hazırladığım dönem projeme buradan ulaşabilirsiniz.
-Proje açıklama dosyasından salon-bilet sisteminin farklı kategoriler için nasıl çalıştığı bilgisi detaylı açıklanmıştır.
-Proje dökümanında ise bu sistemin kod ile nasıl oluşturulduğu açıklanmıştır.
+# Concert Hall Reservation System
+You can access my term project, which was developed as part of the Computer Programming II course, from here. The project description file provides detailed information on how the venue-ticket system works for different categories. The project documentation explains how this system was created using code.
